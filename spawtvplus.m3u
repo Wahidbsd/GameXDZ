@@ -1,0 +1,365 @@
+#EXTM3U
+
+################################################################
+#                        SPORT                                 #
+################################################################
+
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1178456.png" group-title="SPORT",8K - BEIN SPORTS ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1178456&extension=ts&play_token=UV8x8sZpC1&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1178455.png" group-title="SPORT",8K - BEIN SPORTS NEWS ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1178455&extension=ts&play_token=wYWpLtMt7y&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1178454.png" group-title="SPORT",8K - BEIN SPORTS GLOBAL ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1178454&extension=ts&play_token=ohTucOnKkH&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1178453.png" group-title="SPORT",8K - BEIN SPORTS 1 ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1178453&extension=ts&play_token=1HweUgLil4&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1178452.png" group-title="SPORT",8K - BEIN SPORTS 2 ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1178452&extension=ts&play_token=H8Ir8KJNp9&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1178451.png" group-title="SPORT",8K - BEIN SPORTS 3 ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1178451&extension=ts&play_token=1ZkSofNrge&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1178450.png" group-title="SPORT",8K - BEIN SPORTS 4 ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1178450&extension=ts&play_token=UAuze4FiP8&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1178449.png" group-title="SPORT",8K - BEIN SPORTS 5 ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1178449&extension=ts&play_token=tWCt5jHIax&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1178448.png" group-title="SPORT",8K - BEIN SPORTS 6 ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1178448&extension=ts&play_token=dI1cjkpO1g&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1178447.png" group-title="SPORT",8K - BEIN SPORTS 7 ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1178447&extension=ts&play_token=N7cwyQOOnr&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1178446.png" group-title="SPORT",8K - BEIN SPORTS 8 ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1178446&extension=ts&play_token=Oo1CjKOt0D&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1178445.png" group-title="SPORT",8K - BEIN SPORTS 9 ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1178445&extension=ts&play_token=NhCLxcFZOr&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1178444.png" group-title="SPORT",8K - BEIN SPORTS 1 XTRA ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1178444&extension=ts&play_token=oe2J9nUFPv&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1178443.png" group-title="SPORT",8K - BEIN SPORTS 2 XTRA ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1178443&extension=ts&play_token=ZowwdAA0D3&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/594520.png" group-title="SPORT",BEIN SPORTS HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=594520&extension=ts&play_token=RyfSXNPutV&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOD.png" group-title="SPORT",TOD 360 ULTRA 4K ( EVENT ONLY )
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=973395&extension=ts&play_token=uk7NJs8KuH&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1096850.png" group-title="SPORT",BEIN SPORTS AR 4K [EVENT]
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1096850&extension=ts&play_token=4TYwE9yOoU&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/958682.png" group-title="SPORT",BEIN SPORTS 1 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=958682&extension=ts&play_token=rgHEuQrsWQ&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/958683.png" group-title="SPORT",BEIN SPORTS 2 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=958683&extension=ts&play_token=oaSN2MmXVR&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/958684.png" group-title="SPORT",BEIN SPORTS 3 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=958684&extension=ts&play_token=anDkiIyw8k&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/594516.png" group-title="SPORT",BEIN SPORTS 1 HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=594516&extension=ts&play_token=gyLpEea5rJ&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/594515.png" group-title="SPORT",BEIN SPORTS 2 HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=594515&extension=ts&play_token=kXExCFRjSY&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/594514.png" group-title="SPORT",BEIN SPORTS 3 HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=594514&extension=ts&play_token=Ka8Ra1i6po&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/594513.png" group-title="SPORT",BEIN SPORTS 4 HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=594513&extension=ts&play_token=HmtP3EPB12&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/594512.png" group-title="SPORT",BEIN SPORTS 5 HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=594512&extension=ts&play_token=qiCiQrLiVG&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/594511.png" group-title="SPORT",BEIN SPORTS 6 HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=594511&extension=ts&play_token=7DpTD8dbDZ&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/594510.png" group-title="SPORT",BEIN SPORTS 7 HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=594510&extension=ts&play_token=RuMx7eq1tP&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/594518.png" group-title="SPORT",BEIN SPORTS 8 HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=594518&extension=ts&play_token=ayIgpk6Ay9&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987846.png" group-title="SPORT",BEIN SPORTS ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=987846&extension=ts&play_token=&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987845.png" group-title="SPORT",AR - BEIN SPORTS 1 ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=987845&extension=ts&play_token=&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987844.png" group-title="SPORT",AR - BEIN SPORTS 2 ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=987844&extension=ts&play_token=dPepbRYU98&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987843.png" group-title="SPORT",AR - BEIN SPORTS 3 ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=987843&extension=ts&play_token=iKQp6pSPIz&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987842.png" group-title="SPORT",AR - BEIN SPORTS 4 ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=987842&extension=ts&play_token=M6u37RnVAK&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987841.png" group-title="SPORT",AR - BEIN SPORTS 5 ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=987841&extension=ts&play_token=soBIhoehmZ&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987840.png" group-title="SPORT",AR - BEIN SPORTS 6 ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=987840&extension=ts&play_token=SmfVwYFAGY&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987839.png" group-title="SPORT",AR - BEIN SPORTS 7 ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=987839&extension=ts&play_token=&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987838.png" group-title="SPORT",AR - BEIN SPORTS 8 ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=987838&extension=ts&play_token=EttXr4qLXj&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987837.png" group-title="SPORT",AR - BEIN SPORTS 9 ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=987837&extension=ts&play_token=hCSmaDOEac&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987836.png" group-title="SPORT",AR - BEIN SPORTS XTRA 1 ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=987836&extension=ts&play_token=&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987835.png" group-title="SPORT",AR - BEIN SPORTS XTRA 2 ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=987835&extension=ts&play_token=RruCpibmM2&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987834.png" group-title="SPORT",AR - BEIN SPORTS XTRA 3 ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=987834&extension=ts&play_token=JBSwC9NT58&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987833.png" group-title="SPORT",AR - BEIN SPORTS AFC ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=987833&extension=ts&play_token=uTs96DRctm&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/logos/1338925.png" group-title="SPORT",FR - CANAL+ CAN HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1338925&extension=ts&play_token=kpEzz3Wg5l&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/770798.png" group-title="SPORT",FR - CANAL+ FOOT HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=770798&extension=ts&play_token=pWMzh5nkJf&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/807390.png" group-title="SPORT",FR - CANAL+ FOOT UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=807390&extension=ts&play_token=kzULpkwc0R&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/770797.png" group-title="SPORT",FR - CANAL+ 360 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=770797&extension=ts&play_token=NaMyi2gATB&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/807391.png" group-title="SPORT",FR - CANAL+ SPORT 360 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=807391&extension=ts&play_token=e5OVrWozlw&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554024.png" group-title="SPORT",FR - RMC SPORT 1 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=554024&extension=ts&play_token=&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543386.png" group-title="SPORT",FR - RMC SPORT 1 FHD •
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=543386&extension=ts&play_token=LKeehT2sMF&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554025.png" group-title="SPORT",FR - RMC SPORT 2 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=554025&extension=ts&play_token=nZzdt7BS05&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543390.png" group-title="SPORT",FR - RMC SPORT 3 LIVE FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=543390&extension=ts&play_token=bZbR1CwgGD&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543392.png" group-title="SPORT",FR - RMC SPORT 4 LIVE FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=543392&extension=ts&play_token=ROgnCBxen5&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/RMC-SPORT-LIVE.png" group-title="SPORT",FR - RMC SPORT LIVE 5 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=543430&extension=ts&play_token=XgbauDfGQe&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543431.png" group-title="SPORT",FR - RMC SPORT LIVE 6 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=543431&extension=ts&play_token=rrqx3rx56X&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543432.png" group-title="SPORT",FR - RMC SPORT LIVE 7 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=543432&extension=ts&play_token=s1esbFDnBj&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/LEQUIPE.png" group-title="SPORT",FR - L'ÉQUIPE LIVE FOOT ᴿᴬᵂ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1122215&extension=ts&play_token=&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/LEQUIPE.png" group-title="SPORT",FR - L'ÉQUIPE LIVE FOOT ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1122216&extension=ts&play_token=amycXX6iXm&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/LEQUIPE.png" group-title="SPORT",FR - L'ÉQUIPE SPORT ᴿᴬᵂ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1122217&extension=ts&play_token=rBrQ1C3zjW&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/LEQUIPE.png" group-title="SPORT",FR - L'ÉQUIPE SPORT ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1122218&extension=ts&play_token=4dO44FRZDD&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/LEQUIPE.png" group-title="SPORT",FR - L'ÉQUIPE SPORT 1 ᴿᴬᵂ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1122219&extension=ts&play_token=Z93AHO355v&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/LEQUIPE.png" group-title="SPORT",FR - L'ÉQUIPE SPORT 1 ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1122220&extension=ts&play_token=OfKqdUkpUL&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/LEQUIPE.png" group-title="SPORT",FR - L'ÉQUIPE SPORT 2 ᴿᴬᵂ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1122221&extension=ts&play_token=ChWZyFS05X&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/LEQUIPE.png" group-title="SPORT",FR - L'ÉQUIPE SPORT 2 ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1122222&extension=ts&play_token=MykPvdHFWf&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/LEQUIPE.png" group-title="SPORT",FR - L'ÉQUIPE LIVE 1 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1191124&extension=ts&play_token=FsuvdB9kAz&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/LEQUIPE.png" group-title="SPORT",FR - L'ÉQUIPE LIVE 2 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1191123&extension=ts&play_token=AzJZwoFUEp&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/LEQUIPE.png" group-title="SPORT",FR - L'ÉQUIPE LIVE 3 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1191122&extension=ts&play_token=bkxOsY9hwa&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/LEQUIPE.png" group-title="SPORT",FR - L'ÉQUIPE LIVE 4 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1191121&extension=ts&play_token=1E5DpNkN7v&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/LEQUIPE.png" group-title="SPORT",FR - L'ÉQUIPE LIVE 5 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1191120&extension=ts&play_token=ttsCBJdG71&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/LEQUIPE.png" group-title="SPORT",FR - L'ÉQUIPE LIVE 6 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1191119&extension=ts&play_token=hTuiZkXold&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/FRANCENEW/EUROSPORT.png" group-title="SPORT",FR - EUROSPORT 360 1 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1379846&extension=ts&play_token=AXjirG97DE&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/FRANCENEW/EUROSPORT.png" group-title="SPORT",FR - EUROSPORT 360 1 SD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1379845&extension=ts&play_token=F7WG4moATS&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/FRANCENEW/EUROSPORT.png" group-title="SPORT",FR - EUROSPORT 360 2 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1379844&extension=ts&play_token=6j0MJpL0Gw&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/FRANCENEW/EUROSPORT.png" group-title="SPORT",FR - EUROSPORT 360 2 SD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1379843&extension=ts&play_token=jexJmPkZLU&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/FRANCENEW/EUROSPORT.png" group-title="SPORT",FR - EUROSPORT 360 3 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1379842&extension=ts&play_token=Thjh1oUo8x&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/FRANCENEW/EUROSPORT.png" group-title="SPORT",FR - EUROSPORT 360 3 SD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1379841&extension=ts&play_token=9YjnLyeOCH&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/FRANCENEW/EUROSPORT.png" group-title="SPORT",FR - EUROSPORT 360 4 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1379840&extension=ts&play_token=bWd8UyzHbJ&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/FRANCENEW/EUROSPORT.png" group-title="SPORT",FR - EUROSPORT 360 4 SD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1379839&extension=ts&play_token=l5NlFVKxHZ&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/FRANCENEW/EUROSPORT.png" group-title="SPORT",FR - EUROSPORT 360 5 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1379838&extension=ts&play_token=PaRmgQd2y0&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/FRANCENEW/EUROSPORT.png" group-title="SPORT",FR - EUROSPORT 360 5 SD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1379837&extension=ts&play_token=QBKEjWv08z&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/FRANCENEW/EUROSPORT.png" group-title="SPORT",FR - EUROSPORT 360 6 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1379836&extension=ts&play_token=75cic6hDDS&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/FRANCENEW/EUROSPORT.png" group-title="SPORT",FR - EUROSPORT 360 6 SD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1379835&extension=ts&play_token=A5hQ8wbQHN&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/FRANCENEW/EUROSPORT.png" group-title="SPORT",FR - EUROSPORT 360 7 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1379834&extension=ts&play_token=EazXrUQokk&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/FRANCENEW/EUROSPORT.png" group-title="SPORT",FR - EUROSPORT 360 7 SD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1379833&extension=ts&play_token=NoEA2wrYW4&sn2=
+
+################################################################
+#                     DOCUMENTAIRE                             #
+################################################################
+
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554034.png" group-title="DOCUMENTAIRE",FR - DISCOVERY CHANNEL FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=554034&extension=ts&play_token=VD23oSHwM0&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554032.png" group-title="DOCUMENTAIRE",FR - DISCOVERY ID FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=554032&extension=ts&play_token=gUBFN7VqEr&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554035.png" group-title="DOCUMENTAIRE",FR - TLC FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=554035&extension=ts&play_token=CLkFrQdHHC&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554029.png" group-title="DOCUMENTAIRE",FR - NATIONAL GEO FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=554029&extension=ts&play_token=NJNhJhGhnO&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/629706.png" group-title="DOCUMENTAIRE",FR - NAT GEO WILD FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=629706&extension=ts&play_token=v40SMGCXS9&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554044.png" group-title="DOCUMENTAIRE",FR - PLANETE + FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=554044&extension=ts&play_token=Ut1NhMkWK0&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554042.png" group-title="DOCUMENTAIRE",FR - PLANETE AE FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=554042&extension=ts&play_token=J1yyAEwp7b&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554043.png" group-title="DOCUMENTAIRE",FR - PLANETE CI FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=554043&extension=ts&play_token=CIog2wknK7&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554037.png" group-title="DOCUMENTAIRE",FR - HISTOIRE FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=554037&extension=ts&play_token=wLlTf2PcQW&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554038.png" group-title="DOCUMENTAIRE",FR - TOUTE L'HISTOIRE FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=554038&extension=ts&play_token=&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554028.png" group-title="DOCUMENTAIRE",FR - RMC STORY FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=554028&extension=ts&play_token=&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/629699.png" group-title="DOCUMENTAIRE",FR - RMC DECOUVERTE FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=629699&extension=ts&play_token=MuGgGeWUXb&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/629700.png" group-title="DOCUMENTAIRE",FR - CANAL+ DOCS FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=629700&extension=ts&play_token=oZQO6IRXQW&sn2=
+
+################################################################
+#                        FILM                                  #
+################################################################
+
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554001.png" group-title="FILM",FR - CANAL+ FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=554001&extension=ts&play_token=dwR84Yyx2C&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554002.png" group-title="FILM",FR - CANAL+ CINEMA FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=554002&extension=ts&play_token=tjkAxaUdsB&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/960977.png" group-title="FILM",FR - CANAL+ BOX OFFICE FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=960977&extension=ts&play_token=&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554004.png" group-title="FILM",FR - CANAL+ FAMILY FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=554004&extension=ts&play_token=4azzrfWbsu&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554009.png" group-title="FILM",FR - CINE+ FRISSON FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=554009&extension=ts&play_token=y9KYcqmax1&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554007.png" group-title="FILM",FR - OCS FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=554007&extension=ts&play_token=&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/629709.png" group-title="FILM",FR - CINE+ CLASSIC FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=629709&extension=ts&play_token=URuQT8IoAq&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554008.png" group-title="FILM",FR - CINE+ FESTIVAL FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=554008&extension=ts&play_token=xvHAB0avz5&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554006.png" group-title="FILM",FR - CINE+ EMOTION FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=554006&extension=ts&play_token=JMiOzHgKYC&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/629708.png" group-title="FILM",FR - CINE+ FAMILY FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=629708&extension=ts&play_token=3RVBN276DK&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/629710.png" group-title="FILM",FR - OCS GEANTS FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=629710&extension=ts&play_token=EpdhsWib3G&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554011.png" group-title="FILM",FR - OCS MAX FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=554011&extension=ts&play_token=Lij25iRQiy&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553974.png" group-title="FILM",FR - ACTION FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553974&extension=ts&play_token=JhAyAQiex9&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/629728.png" group-title="FILM",FR - WARNER TV NEXT FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=629728&extension=ts&play_token=4afstSSDg8&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553671.png" group-title="FILM",FR - SYFY 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553671&extension=ts&play_token=e2yxcboSao&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553672.png" group-title="FILM",FR - TEVA 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553672&extension=ts&play_token=3tO3Ysg8sO&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553670.png" group-title="FILM",FR - TF1 SERIES 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553670&extension=ts&play_token=LKkzv1iguT&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553969.png" group-title="FILM",FR - TF1 SERIES FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553969&extension=ts&play_token=DXIfYyN6oN&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553979.png" group-title="FILM",FR - CHERIE 25 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553979&extension=ts&play_token=RJVeZcYJ93&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/845441.png" group-title="FILM",FR - TF1 FILMS & SÉRIES HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=845441&extension=ts&play_token=zfQ3WAqkbM&sn2=
+
+################################################################
+#                        SÉRIE                                 #
+################################################################
+
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553969.png" group-title="SÉRIE",FR - TF1 SERIES FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553969&extension=ts&play_token=DXIfYyN6oN&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553670.png" group-title="SÉRIE",FR - TF1 SERIES 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553670&extension=ts&play_token=LKkzv1iguT&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/845441.png" group-title="SÉRIE",FR - TF1 FILMS & SÉRIES HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=845441&extension=ts&play_token=zfQ3WAqkbM&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554009.png" group-title="SÉRIE",FR - CINE+ FRISSON FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=554009&extension=ts&play_token=y9KYcqmax1&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554006.png" group-title="SÉRIE",FR - CINE+ EMOTION FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=554006&extension=ts&play_token=JMiOzHgKYC&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554004.png" group-title="SÉRIE",FR - CANAL+ FAMILY FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=554004&extension=ts&play_token=4azzrfWbsu&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554028.png" group-title="SÉRIE",FR - RMC STORY FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=554028&extension=ts&play_token=&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/629699.png" group-title="SÉRIE",FR - RMC DECOUVERTE FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=629699&extension=ts&play_token=MuGgGeWUXb&sn2=
+
+
+###############################################################
+#                        adulto                                 #
+################################################################
+
+
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX:  FAP TV COMPILATION TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=629362&extension=ts&play_token=tN3ipLrK8o&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ADULT 3
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=629289&extension=ts&play_token=pOujvcE3XC&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ADULT 9
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=629189&extension=ts&play_token=ZTtX34P9TC&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ADULT BIG DICK
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=810234&extension=ts&play_token=vDrs1VXwBM&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ADULT DORCEL TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=810236&extension=ts&play_token=cDR8JWae1u&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ADULT TINY4K 2 TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=629281&extension=ts&play_token=W6IUjALJUY&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ADULT TINY4K 3 TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=629283&extension=ts&play_token=SGQh6UasMT&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ALBA XXX 2
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=629199&extension=ts&play_token=VTpDOeLfLT&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ALBA XXX 3
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=629176&extension=ts&play_token=DyScJ4dZpj&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ALBA XXX 4
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=629217&extension=ts&play_token=d27vlb2SJV&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ALBA XXX 5
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=629223&extension=ts&play_token=bSBsvE4vTQ&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ALBA XXX 6
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=810235&extension=ts&play_token=QT4Aw2eFyq&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ANAL TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=629292&extension=ts&play_token=kYa2J7Dwl2&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ASIAN TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=629329&extension=ts&play_token=c1RmhALlXB&sn2=
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",##### GENERAL HIGHT QUALITY FHD #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=543281&extension=ts&play_token=F3spdyKODw&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553959.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - TF1 FHD ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553959&extension=ts&play_token=EhIoo4gHAX&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/778985.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - TF1 +1 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=778985&extension=ts&play_token=o2CGkDAUV0&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/1161548.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - TF1+ STAR ACADEMY FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=1161548&extension=ts&play_token=RKCfvSiXZO&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553960.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - FRANCE 2 FHD ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553960&extension=ts&play_token=QTd0GV1kq9&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553961.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - FRANCE 3 FHD ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553961&extension=ts&play_token=NXjpbPg2QX&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553962.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - FRANCE 4 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553962&extension=ts&play_token=US9DSPWZ2K&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553963.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - FRANCE 5 FHD ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553963&extension=ts&play_token=SN1SQomKmz&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553964.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - M6 FHD ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553964&extension=ts&play_token=3gG45cdCT2&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553967.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - C8 FHD ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553967&extension=ts&play_token=mwfxJUDDg8&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553968.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - 6TER FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553968&extension=ts&play_token=FBtOXm08EG&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553969.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - TF1 SERIES FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553969&extension=ts&play_token=PB4DRQTQDl&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553979.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - CHERIE 25 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553979&extension=ts&play_token=HHUfqK30WZ&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553966.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - W9 FHD ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553966&extension=ts&play_token=VhB5aXeqsB&sn2=
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="[LIVE]- |EU| FRANCE 4K",##### FRANCE 4K #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=756521&extension=ts&play_token=Maw6DY1hac&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553660.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - TF1 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=v.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553660&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553661.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - FRANCE 2 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=v.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553661&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553662.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - FRANCE 3 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553662&extension=ts&play_token=L5KfnyI2r4&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553663.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - FRANCE 4 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=v.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553663&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553664.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - FRANCE 5 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=v.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553664&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553665.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - M6 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553665&extension=ts&play_token=IaXHJFUaU1&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553666.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - ARTE 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553666&extension=ts&play_token=pTpo3Hbc34&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553667.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - C8 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553667&extension=ts&play_token=AhmqD6q8ia&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553668.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - W9 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553668&extension=ts&play_token=7zq3hVOfeP&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553669.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - TFX 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553669&extension=ts&play_token=35bkveU8ql&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553670.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - TF1 SERIES 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553670&extension=ts&play_token=MGMuaarp3P&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553671.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - SYFY 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553671&extension=ts&play_token=etcBDR6KvW&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553672.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - TEVA 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:16:b6:07&stream=553672&extension=ts&play_token=6zSFfZMT87&sn2=
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
