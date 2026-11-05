@@ -319,34 +319,7 @@ http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1141583&exte
 http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1141579&extension=ts&play_token=O9NIpLlN8f
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINSERIES2.png" group-title="[LIVE]- AR| BEIN ENTERTAINMENT",AR| BEIN SERIES 2 HD
 http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1141578&extension=ts&play_token=B4EeIV0CHA
-#EXTINF:-1 group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",##### STARZPLAY / AD SPORT #####
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=988043&extension=ts&play_token=vjN5O6jlSh
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ADSPORTFIGHT.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| AD SPORT FIGHT HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1790153&extension=ts&play_token=LSBRUtYESX
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ADSPORTFIGHT.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| AD SPORT FIGHT RAW
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1790151&extension=ts&play_token=RejZciZLjG
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ADSPORTFIGHT.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| AD SPORT FIGHT SD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1790152&extension=ts&play_token=F6ko8MkSRM
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZPLAY.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| STARZPLAY / AD SPORT 1 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=988032&extension=ts&play_token=iyBu4bxvfA
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZPLAY.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| STARZPLAY / AD SPORT 2 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=988033&extension=ts&play_token=Cm6KWApGk4
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZPLAY.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| STARZPLAY / AD SPORT 3 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=988034&extension=ts&play_token=Fdo08TcUAr
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZPLAY.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| STARZPLAY / AD SPORT 4 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=988035&extension=ts&play_token=E4NCKsigra
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZPLAY.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| STARZPLAY / AD SPORT 5 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=988036&extension=ts&play_token=h1Uza2BuCQ
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZPLAY.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| STARZPLAY / AD SPORTS 1 FHD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=993327&extension=ts&play_token=km3lrX6Fok
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZPLAY.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| STARZPLAY / AD SPORTS 2 FHD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=993328&extension=ts&play_token=6ZDOEDu2Q2
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZPLAY.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| STARZPLAY / AD SPORTS 3 FHD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=993329&extension=ts&play_token=M2c9wFnKue
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZPLAY.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| STARZPLAY / CRLIFE 1 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=994886&extension=ts&play_token=cOM7uV6pgB
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZPLAY.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| STARZPLAY / CRLIFE 2 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=994887&extension=ts&play_token=sGXQihPGYC
+
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV",####### DAZN PPV MA #######
 http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2047005&extension=ts&play_token=YmrnIGWxsE
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV",####### DAZN MENA PPV #######
@@ -525,31 +498,3 @@ http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=732122&exten
 http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=548599&extension=ts&play_token=KuAQCSTV4y
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SHOOF-COMEDY.png" group-title="[LIVE]- AR| SHOOF COMEDY",AR| وعدتني يا رفيقي
 http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=548604&extension=ts&play_token=deGekot2Hy
-#EXTINF:-1 group-title="[LIVE]- AR| STARZ PLAY",##### STARS PLAY 4K #####
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272272&extension=ts&play_token=24sk9ZAWxp
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZ--PLAY.png" group-title="[LIVE]- AR| STARZ PLAY",AR| الأجهر
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272266&extension=ts&play_token=QmycN0rGyP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZ--PLAY.png" group-title="[LIVE]- AR| STARZ PLAY",AR| الثمن
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272590&extension=ts&play_token=3WMw6IGqeU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZ--PLAY.png" group-title="[LIVE]- AR| STARZ PLAY",AR| الزند
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272267&extension=ts&play_token=4EYGC6zYkL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZ--PLAY.png" group-title="[LIVE]- AR| STARZ PLAY",AR| النار بالنار
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272268&extension=ts&play_token=mX40PdVu3R
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZ--PLAY.png" group-title="[LIVE]- AR| STARZ PLAY",AR| خريف عمر
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272269&extension=ts&play_token=OkLqWxVyZW
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZ--PLAY.png" group-title="[LIVE]- AR| STARZ PLAY",AR| زقاق الجن
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272270&extension=ts&play_token=gPmw5bR56x
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZ--PLAY.png" group-title="[LIVE]- AR| STARZ PLAY",AR| عملة نادرة
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272260&extension=ts&play_token=YmJ5AWW0fa
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZ--PLAY.png" group-title="[LIVE]- AR| STARZ PLAY",AR| فنطاس
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272261&extension=ts&play_token=1fPQVZqz7Z
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZ--PLAY.png" group-title="[LIVE]- AR| STARZ PLAY",AR| قرة عينك
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272262&extension=ts&play_token=rNZhLZV99e
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZ--PLAY.png" group-title="[LIVE]- AR| STARZ PLAY",AR| قفص مخملي
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272263&extension=ts&play_token=3ZL32bxGGA
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZ--PLAY.png" group-title="[LIVE]- AR| STARZ PLAY",AR| مجاريح
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272264&extension=ts&play_token=rTdrNVM26a
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZ--PLAY.png" group-title="[LIVE]- AR| STARZ PLAY",AR| مربى العز
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272271&extension=ts&play_token=RWPvVfVCsc
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1272265.png" group-title="[LIVE]- AR| STARZ PLAY",AR| منزل 12
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272265&extension=ts&play_token=WFBvnJKU7V
