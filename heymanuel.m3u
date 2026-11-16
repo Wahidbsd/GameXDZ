@@ -1,0 +1,447 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/HBO%20max.png" group-title="MAX SPORT",┃NL┃ HBO MAX SPORT 1 |
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=859415&extension=ts&play_token=GFb480MrLF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/HBO%20max.png" group-title="MAX SPORT",┃NL┃ HBO MAX SPORT 2 |
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=859414&extension=ts&play_token=LcjNtPDkNW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/HBO%20max.png" group-title="MAX SPORT",┃NL┃ HBO MAX SPORT 3 |
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=859413&extension=ts&play_token=D4iuLebeE8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/HBO%20max.png" group-title="MAX SPORT",┃NL┃ HBO MAX SPORT 4 |
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=859412&extension=ts&play_token=Gl7N0MuhZF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/HBO%20max.png" group-title="MAX SPORT",┃NL┃ HBO MAX SPORT 5 |
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=859411&extension=ts&play_token=zlOZfUC0dz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/HBO%20max.png" group-title="MAX SPORT",┃NL┃ HBO MAX SPORT 6 |
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=859410&extension=ts&play_token=PVYcP3oSLe
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/HBO%20max.png" group-title="MAX SPORT",┃NL┃ HBO MAX SPORT 7 |
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=859409&extension=ts&play_token=usBTMCzgTN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/HBO%20max.png" group-title="MAX SPORT",┃NL┃ HBO MAX SPORT 8 |
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=859408&extension=ts&play_token=dHysq8qBrk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/HBO%20max.png" group-title="MAX SPORT",┃NL┃ HBO MAX SPORT 9 |
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=859407&extension=ts&play_token=N6fIzGwaxp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/HBO%20max.png" group-title="MAX SPORT",┃NL┃ HBO MAX SPORT 10 |
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=859406&extension=ts&play_token=knlxHYbVm6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/HBO%20max.png" group-title="MAX SPORT",┃NL┃ HBO MAX SPORT 11 |
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=859405&extension=ts&play_token=iUBRwI7n5S
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/HBO%20max.png" group-title="MAX SPORT",┃NL┃ HBO MAX SPORT 12 |
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=859404&extension=ts&play_token=JXP3ro8HA0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/HBO%20max.png" group-title="MAX SPORT",┃NL┃ HBO MAX SPORT 13 |
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=859403&extension=ts&play_token=RTZQKVXxHh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/HBO%20max.png" group-title="MAX SPORT",┃NL┃ HBO MAX SPORT 14 |
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=859402&extension=ts&play_token=rvz1818ukX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT SPORTS FHD",☰☰☰☰ ┃UK┃ TNT SPORTS FHD ☰☰☰☰
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1311898&extension=ts&play_token=ynCyIINg9N
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT SPORTS FHD",┃UK┃ TNT SPORTS 1 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1311899&extension=ts&play_token=y3WcZUqpym
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT SPORTS FHD",┃UK┃ TNT SPORTS 2 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1311900&extension=ts&play_token=GHyW25O3kb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT SPORTS FHD",┃UK┃ TNT SPORTS 3 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1311901&extension=ts&play_token=wJ8hFfBgFT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT SPORTS FHD",┃UK┃ TNT SPORTS 4 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1311902&extension=ts&play_token=XuVEZi3OWo
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS.png" group-title="sky SPORTS FHD",☰☰☰☰ ┃UK┃ SKY SPORTS FHD ☰☰☰☰
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1312075&extension=ts&play_token=yoAGZdyuqz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS NEWS.png" group-title="sky SPORTS FHD",┃UK┃ SKY SPORTS NEWS FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=394559&extension=ts&play_token=Vxpf3jGozj
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png" group-title="sky SPORTS FHD",┃UK┃ SKY SPORTS MAIN EVENT FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=394553&extension=ts&play_token=gDeesLn9vT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS PREMIER LEAUGE.png" group-title="sky SPORTS FHD",┃UK┃ SKY SPORTS PREMIER LEAGUE FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=394557&extension=ts&play_token=19DfecvTvI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png" group-title="sky SPORTS FHD",┃UK┃ SKY SPORTS FOOTBALL FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=394555&extension=ts&play_token=Xf4aASG492
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MIX.png" group-title="sky SPORTS FHD",┃UK┃ SKY SPORTS MIX FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=394551&extension=ts&play_token=onDfLnUplw
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS ACTION.png" group-title="sky SPORTS FHD",┃UK┃ SKY SPORTS ACTION / NFL FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=394547&extension=ts&play_token=nu0lO5rpxI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS F1.png" group-title="sky SPORTS FHD",┃UK┃ SKY SPORTS F1 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=394543&extension=ts&play_token=GbNVT2sbPr
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS RACING.png" group-title="sky SPORTS FHD",┃UK┃ SKY SPORTS RACING FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1198276&extension=ts&play_token=NEPF6wjdBz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png" group-title="sky SPORTS FHD",┃UK┃ SKY SPORTS TENNIS FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=394549&extension=ts&play_token=kNeN5Ttve7
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS GOLF.png" group-title="sky SPORTS FHD",┃UK┃ SKY SPORTS GOLF FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1198277&extension=ts&play_token=PSs8gsRKmR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS CRICKET.png" group-title="sky SPORTS FHD",┃UK┃ SKY SPORTS CRICKET FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=394545&extension=ts&play_token=TOJXDz2mAC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png" group-title="sky SPORTS FHD",┃UK┃ SKY SPORTS+ FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=870313&extension=ts&play_token=mh5vHsoLlw
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/RACING TV.png" group-title="sky SPORTS FHD",┃UK┃ RACING TV UK FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1312818&extension=ts&play_token=FpsVrZRZ8z
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS.png" group-title="uk prem",☰☰☰☰ ┃UK┃ PREMIER SPORTS ☰☰☰☰
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1312716&extension=ts&play_token=oHeYbUuAer
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png" group-title="uk prem",┃UK┃ PREMIER SPORTS 1 RAW 50FPS FHD (IRELAND)
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1312727&extension=ts&play_token=j0pArqgJ0R
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png" group-title="uk prem",┃UK┃ PREMIER SPORTS 2 RAW 50FPS FHD (IRELAND)
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1312728&extension=ts&play_token=1c5H6RMf4l
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png" group-title="uk prem",┃UK┃ PREMIER SPORTS 1 HEVC FHD (IRELAND)
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1312717&extension=ts&play_token=bRteF0z7xg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png" group-title="uk prem",┃UK┃ PREMIER SPORTS 2 HEVC FHD (IRELAND)
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1312718&extension=ts&play_token=4frdaJSDSd
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png" group-title="uk prem",┃UK┃ PREMIER SPORTS 1 HEVC HD (IRELAND)
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1312719&extension=ts&play_token=Sd88kvA74I
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png" group-title="uk prem",┃UK┃ PREMIER SPORTS 2 HEVC HD IRELAND)
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1312720&extension=ts&play_token=AoRsKTy7mM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png" group-title="uk prem",┃UK┃ PREMIER SPORTS 1 FHD (IRELAND)
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1312725&extension=ts&play_token=stTxg1sU1u
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png" group-title="uk prem",┃UK┃ PREMIER SPORTS 2 FHD (IRELAND)
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1312726&extension=ts&play_token=WL39TQr3nN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png" group-title="uk prem",┃UK┃ PREMIER SPORTS  1 HD (IRELAND)
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1312723&extension=ts&play_token=XHUU02MCvp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png" group-title="uk prem",┃UK┃ PREMIER SPORTS 2 HD (IRELAND)
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1312724&extension=ts&play_token=UdMiNiMYwh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png" group-title="uk prem",┃UK┃ PREMIER SPORTS 1 SD (IRELAND)
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1312721&extension=ts&play_token=BfBXTG5VZd
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png" group-title="uk prem",┃UK┃ PREMIER SPORTS 2 SD (IRELAND)
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1312722&extension=ts&play_token=4Aqtzw1OVn
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png" group-title="uk prem",┃UK┃ PREMIER SPORTS 1 FHD (UK)
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1312729&extension=ts&play_token=GihtoDmtXt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Vamos_por_Movistar_Plus+_2023_Logo.svg.png" group-title="Vamos",┃ES┃ M+ #VAMOS FHD HEVC
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=587504&extension=ts&play_token=GzpdCvi062
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Vamos_por_Movistar_Plus+_2023_Logo.svg.png" group-title="Vamos",┃ES┃ M+ #VAMOS FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=897397&extension=ts&play_token=QnFbx8i68d
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Vamos_por_Movistar_Plus+_2023_Logo.svg.png" group-title="Vamos",┃ES┃ M+ #VAMOS HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=897398&extension=ts&play_token=LBfAb3BdvC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Vamos_por_Movistar_Plus+_2023_Logo.svg.png" group-title="Vamos",┃ES┃ M+ #VAMOS
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=897399&extension=ts&play_token=IusP0rAyUg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Ellas V por M plus.png" group-title="Vamos",┃ES┃ M+ ELLAS #V FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=897400&extension=ts&play_token=pSaNgWWXUR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Ellas V por M plus.png" group-title="Vamos",┃ES┃ M+ ELLAS #V HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=897401&extension=ts&play_token=25NL9G3RyS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Ellas V por M plus.png" group-title="Vamos",┃ES┃ M+ ELLAS #V
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=897402&extension=ts&play_token=hzpSX5YFOF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M plus.png" group-title="Vamos",┃ES┃ M+ PLUS+ FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=897403&extension=ts&play_token=hhzZ21DJe3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M plus.png" group-title="Vamos",┃ES┃ M+ PLUS+ HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=897404&extension=ts&play_token=oiJJNeErS4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M plus.png" group-title="Vamos",┃ES┃ M+ PLUS+
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=897405&extension=ts&play_token=5H5H0Ou9PU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M plus.png" group-title="Vamos",┃ES┃ M+ PLUS+ 2 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=897406&extension=ts&play_token=JEpmAuGy94
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M plus.png" group-title="Vamos",┃ES┃ M+ PLUS+ 2 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=897407&extension=ts&play_token=QoTDOOejJ9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M plus.png" group-title="Vamos",┃ES┃ M+ PLUS+ 2
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=897408&extension=ts&play_token=pP5Ev9HD5o
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M+ LIGA CHAMPEONES/M+ LIGA DE CAMPEONES .png" group-title="[M+ LIGA CHAMPEONES",┃ES┃ M+ LIGA DE CAMPEONES FHD HEVC
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=587343&extension=ts&play_token=K3SnifcrCa
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M+ LIGA CHAMPEONES/M+ LIGA DE CAMPEONES .png" group-title="[M+ LIGA CHAMPEONES",┃ES┃ M+ LIGA DE CAMPEONES FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=587342&extension=ts&play_token=yvBwwaQs2E
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M+ LIGA CHAMPEONES/M+ LIGA DE CAMPEONES .png" group-title="[M+ LIGA CHAMPEONES",┃ES┃ M+ LIGA DE CAMPEONES HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=587341&extension=ts&play_token=idhLtuI1Wc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M+ LIGA CHAMPEONES/M+ LIGA DE CAMPEONES .png" group-title="[M+ LIGA CHAMPEONES",┃ES┃ M+ LIGA DE CAMPEONES
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=587340&extension=ts&play_token=jiY0DgRW3c
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M+ LIGA CHAMPEONES/M+ LIGA DE CAMPEONES .png" group-title="[M+ LIGA CHAMPEONES",┃ES┃ M+ LIGA DE CAMPEONES 2 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=587339&extension=ts&play_token=htluc4BP7I
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M+ LIGA CHAMPEONES/M+ LIGA DE CAMPEONES .png" group-title="[M+ LIGA CHAMPEONES",┃ES┃ M+ LIGA DE CAMPEONES 2 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=587338&extension=ts&play_token=3bpN8QHHEi
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M+ LIGA CHAMPEONES/M+ LIGA DE CAMPEONES .png" group-title="[M+ LIGA CHAMPEONES",┃ES┃ M+ LIGA DE CAMPEONES 3 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=587337&extension=ts&play_token=y4fyxFXHcF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M+ LIGA CHAMPEONES/M+ LIGA DE CAMPEONES .png" group-title="[M+ LIGA CHAMPEONES",┃ES┃ M+ LIGA DE CAMPEONES 3
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=587336&extension=ts&play_token=hNgp6TdRgd
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M+ LIGA CHAMPEONES/M+ LIGA DE CAMPEONES .png" group-title="[M+ LIGA CHAMPEONES",┃ES┃ M+ LIGA DE CAMPEONES 4
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=587335&extension=ts&play_token=opcyTZ6kDt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M+ LIGA CHAMPEONES/M+ LIGA DE CAMPEONES .png" group-title="[M+ LIGA CHAMPEONES",┃ES┃ M+ LIGA DE CAMPEONES 5
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=587334&extension=ts&play_token=y0kkrzoehV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M+ LIGA CHAMPEONES/M+ LIGA DE CAMPEONES .png" group-title="[M+ LIGA CHAMPEONES",┃ES┃ M+ LIGA DE CAMPEONES 6
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=587333&extension=ts&play_token=8GFz0T7pKG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M+ LIGA CHAMPEONES/M+ LIGA DE CAMPEONES .png" group-title="[M+ LIGA CHAMPEONES",┃ES┃ M+ LIGA DE CAMPEONES 7
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=587332&extension=ts&play_token=phRfS4uTf0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M+ LIGA CHAMPEONES/M+ LIGA DE CAMPEONES .png" group-title="[M+ LIGA CHAMPEONES",┃ES┃ M+ LIGA DE CAMPEONES 8
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=587331&extension=ts&play_token=0fVApvu6Kb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M+ LIGA CHAMPEONES/M+ LIGA DE CAMPEONES .png" group-title="[M+ LIGA CHAMPEONES",┃ES┃ M+ LIGA DE CAMPEONES 9
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=587330&extension=ts&play_token=7apDNlu3pl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M+ REF FEDERACION/M+ REF FEDERACION.png" group-title="M+ LIGA CHAMPEONES",┃ES┃M+ REF FEDERACION FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1279612&extension=ts&play_token=CGPmJZO1bo
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M+ REF FEDERACION/M+ REF FEDERACION.png" group-title="M+ LIGA CHAMPEONES",┃ES┃M+ REF FEDERACION HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1279613&extension=ts&play_token=nLQIR8aYZi
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M+ REF FEDERACION/M+ REF FEDERACION.png" group-title="M+ LIGA CHAMPEONES",┃ES┃M+ REF FEDERACION
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1279614&extension=ts&play_token=6Yug3o3X36
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png" group-title="M+ LIGA CHAMPEONES",┃ES┃ M+ LA LIGA 4K UHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=1044416&extension=ts&play_token=0L6hcXR8M4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png" group-title="M+ LIGA CHAMPEONES",┃ES┃ M+ LA LIGA FHD HEVC
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=699397&extension=ts&play_token=7lr9N03vgY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png" group-title="M+ LIGA CHAMPEONES",┃ES┃ M+ LA LIGA FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=699395&extension=ts&play_token=Xxn0x5gfjx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSLALIGA.png" group-title="M+ LIGA CHAMPEONES",┃ES┃ M+ LA LIGA 1 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=587357&extension=ts&play_token=PvpFT68EWM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSLALIGA.png" group-title="M+ LIGA CHAMPEONES",┃ES┃ M+ LA LIGA 1
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=587356&extension=ts&play_token=dnNIalihlt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSLALIGA.png" group-title="M+ LIGA CHAMPEONES",┃ES┃ M+ LA LIGA 2 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=587355&extension=ts&play_token=0A5kbI5QQJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSLALIGA.png" group-title="M+ LIGA CHAMPEONES",┃ES┃ M+ LA LIGA 2
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=587354&extension=ts&play_token=oeQRgyzjxz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSLALIGA.png" group-title="M+ LIGA CHAMPEONES",┃ES┃ M+ LA LIGA TV 3 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=897409&extension=ts&play_token=3EzZnuFnYy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="M+ LIGA CHAMPEONES",┃ES┃ LA LIGA HYPERMOTION TV 1 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=587349&extension=ts&play_token=vl4buUWvR6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="M+ LIGA CHAMPEONES",┃ES┃ LA LIGA HYPERMOTION TV 1 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=587347&extension=ts&play_token=CeqIejaj7o
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="M+ LIGA CHAMPEONES",┃ES┃ LA LIGA HYPERMOTION TV 1
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=587345&extension=ts&play_token=PGje8avrhc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+.png" group-title="CANAL+ Ly",┃FR┃ CANAL+ FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936869&extension=ts&play_token=4og8lYQOHV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+.png" group-title="CANAL+ Ly",┃FR┃ CANAL+ HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936870&extension=ts&play_token=jvOfniZ9Y1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+.png" group-title="CANAL+ Ly",┃FR┃ CANAL+
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936871&extension=ts&play_token=FKYnecp9YO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ CINEMA.png" group-title="CANAL+ Ly",┃FR┃ CANAL+ CINEMA FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936874&extension=ts&play_token=gfBL0Ldori
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ CINEMA.png" group-title="CANAL+ Ly",┃FR┃ CANAL+ CINEMA HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936875&extension=ts&play_token=790ruvvB93
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ CINEMA.png" group-title="CANAL+ Ly",┃FR┃ CANAL+ CINEMA
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936876&extension=ts&play_token=2rNmmPZ5rQ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ SERIES.png" group-title="CANAL+ Ly",┃FR┃ CANAL+ SERIES FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936877&extension=ts&play_token=wGkeIZCUPz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ SERIES.png" group-title="CANAL+ Ly",┃FR┃ CANAL+ SERIES HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936878&extension=ts&play_token=mo0fQB9IOk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ SERIES.png" group-title="CANAL+ Ly",┃FR┃ CANAL+ SERIES
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936879&extension=ts&play_token=AoR5k4LwHR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ BOX OFFICE.png" group-title="CANAL+ Ly",┃FR┃ CANAL+ BOX OFFICE FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936872&extension=ts&play_token=Oj7dsJ0mXs
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ BOX OFFICE.png" group-title="CANAL+ Ly",┃FR┃ CANAL+ BOX OFFICE HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936873&extension=ts&play_token=lWT06ppUxZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ GRAND ECRAN.png" group-title="CANAL+ Ly",┃FR┃ CANAL+ GRAND ECRAN FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936880&extension=ts&play_token=hkpZqwT3Wr
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ GRAND ECRAN.png" group-title="CANAL+ Ly",┃FR┃ CANAL+ GRAND ECRAN HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936881&extension=ts&play_token=5uU09AHN4E
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/ACTION.png" group-title="CANAL+ Ly",┃FR┃ ACTION FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936882&extension=ts&play_token=L5MqV93Co9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/MTV.png" group-title="[LIVE]- ┃FR┃ DIVERTISSEMENT",┃FR┃ MTV FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936937&extension=ts&play_token=5AKNtIFLAi
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/MTV.png" group-title="[LIVE]- ┃FR┃ DIVERTISSEMENT",┃FR┃ MTV HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936938&extension=ts&play_token=y3nOId7Dw2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/MTV.png" group-title="[LIVE]- ┃FR┃ DIVERTISSEMENT",┃FR┃ MTV
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936939&extension=ts&play_token=WEzQCWnHU3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/E! ENTERTAINMENT.png" group-title="[LIVE]- ┃FR┃ DIVERTISSEMENT",┃FR┃ E! ENTERTAINMENT FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936931&extension=ts&play_token=54SZ2CdvdL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/E! ENTERTAINMENT.png" group-title="[LIVE]- ┃FR┃ DIVERTISSEMENT",┃FR┃ E! ENTERTAINMENT HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936932&extension=ts&play_token=LUPNLkSFeh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/E! ENTERTAINMENT.png" group-title="[LIVE]- ┃FR┃ DIVERTISSEMENT",┃FR┃ E! ENTERTAINMENT
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936933&extension=ts&play_token=HtYuEMGQSH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/COMEDY CENTRAL.png" group-title="[LIVE]- ┃FR┃ DIVERTISSEMENT",┃FR┃ COMEDY CENTRAL FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936925&extension=ts&play_token=gw8ak2vbLY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/COMEDY CENTRAL.png" group-title="[LIVE]- ┃FR┃ DIVERTISSEMENT",┃FR┃ COMEDY CENTRAL HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936926&extension=ts&play_token=t2W1LHVPcQ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/COMEDY CENTRAL.png" group-title="[LIVE]- ┃FR┃ DIVERTISSEMENT",┃FR┃ COMEDY CENTRAL
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936927&extension=ts&play_token=pow6Vk4sz8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/POLAR+.png" group-title="[LIVE]- ┃FR┃ DIVERTISSEMENT",┃FR┃ POLAR + FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936899&extension=ts&play_token=lzY7o87RZO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/POLAR+.png" group-title="[LIVE]- ┃FR┃ DIVERTISSEMENT",┃FR┃ POLAR+ HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936900&extension=ts&play_token=vFq7kqM0Eh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/POLAR+.png" group-title="[LIVE]- ┃FR┃ DIVERTISSEMENT",┃FR┃ POLAR+
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936901&extension=ts&play_token=Ebj0SYA0fl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/SERIE CLUB.png" group-title="[LIVE]- ┃FR┃ DIVERTISSEMENT",┃FR┃ SERIE CLUB FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936902&extension=ts&play_token=MO1TyLjJd1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/SERIE CLUB.png" group-title="[LIVE]- ┃FR┃ DIVERTISSEMENT",┃FR┃ SERIE CLUB HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=936903&extension=ts&play_token=9OT4UnDPMc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CANAL+ DOCS.png" group-title="[LIVE]- ┃FR┃ DOCUMENTAIRES",┃FR┃ CANAL+ DOCS FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941630&extension=ts&play_token=KYgJBZo7W0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CANAL+ DOCS.png" group-title="[LIVE]- ┃FR┃ DOCUMENTAIRES",┃FR┃ CANAL+ DOCS HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941631&extension=ts&play_token=Ee1B0t8cOY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CRIME DISTRICT.png" group-title="[LIVE]- ┃FR┃ DOCUMENTAIRES",┃FR┃ CRIME DISTRICT FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941628&extension=ts&play_token=ybLzOB8PZY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CRIME DISTRICT.png" group-title="[LIVE]- ┃FR┃ DOCUMENTAIRES",┃FR┃ CRIME DISTRICT HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941629&extension=ts&play_token=Z89ysC1vzh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/NATIONAL GEO.png" group-title="[LIVE]- ┃FR┃ DOCUMENTAIRES",┃FR┃ NATIONAL GEO FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941638&extension=ts&play_token=lI7AHRLcsn
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/NATIONAL GEO.png" group-title="[LIVE]- ┃FR┃ DOCUMENTAIRES",┃FR┃ NATIONAL GEO HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941639&extension=ts&play_token=qyNGnMvWT2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/NATIONAL GEO.png" group-title="[LIVE]- ┃FR┃ DOCUMENTAIRES",┃FR┃ NATIONAL GEO
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941640&extension=ts&play_token=oMGLiTw7xN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/NAT GEO WILD.png" group-title="[LIVE]- ┃FR┃ DOCUMENTAIRES",┃FR┃ NAT GEO WILD FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941641&extension=ts&play_token=tsCqJru6LF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/NAT GEO WILD.png" group-title="[LIVE]- ┃FR┃ DOCUMENTAIRES",┃FR┃ NAT GEO WILD HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941642&extension=ts&play_token=duyehkA0ZU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/NAT GEO WILD.png" group-title="[LIVE]- ┃FR┃ DOCUMENTAIRES",┃FR┃ NAT GEO WILD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941643&extension=ts&play_token=hIGpj0y3G6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/DISCOVERY CHANNEL.png" group-title="[LIVE]- ┃FR┃ DOCUMENTAIRES",┃FR┃ DISCOVERY CHANNEL FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941633&extension=ts&play_token=P5xCkXCI1i
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/DISCOVERY CHANNEL.png" group-title="[LIVE]- ┃FR┃ DOCUMENTAIRES",┃FR┃ DISCOVERY CHANNEL HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941632&extension=ts&play_token=yymWdshjj5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/DISCOVERY ID.png" group-title="[LIVE]- ┃FR┃ DOCUMENTAIRES",┃FR┃ DISCOVERY ID FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941636&extension=ts&play_token=kKxEdgiJMz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/DISCOVERY ID.png" group-title="[LIVE]- ┃FR┃ DOCUMENTAIRES",┃FR┃ DISCOVERY ID HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941637&extension=ts&play_token=MYjUewShjf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/FRANCE INFO.png" group-title="[LIVE]- ┃FR┃ INFORMATIONS",┃FR┃ FRANCE INFO FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941751&extension=ts&play_token=hgTK4oC2Hd
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/FRANCE INFO.png" group-title="[LIVE]- ┃FR┃ INFORMATIONS",┃FR┃ FRANCE INFO HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941752&extension=ts&play_token=htaJhWjOAG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/FRANCE 24.png" group-title="[LIVE]- ┃FR┃ INFORMATIONS",┃FR┃ FRANCE 24 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941753&extension=ts&play_token=HI0jm06CzB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/FRANCE 24.png" group-title="[LIVE]- ┃FR┃ INFORMATIONS",┃FR┃ FRANCE 24 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941754&extension=ts&play_token=OzP15zkczG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/FRANCE 24.png" group-title="[LIVE]- ┃FR┃ INFORMATIONS",┃FR┃ FRANCE 24
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941755&extension=ts&play_token=VOiLcOTH0H
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/EURONEWS FRENCH.png" group-title="[LIVE]- ┃FR┃ INFORMATIONS",┃FR┃ EURONEWS FRENCH FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941758&extension=ts&play_token=hiCuNp0L7r
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/EURONEWS FRENCH.png" group-title="[LIVE]- ┃FR┃ INFORMATIONS",┃FR┃ EURONEWS FRENCH HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941759&extension=ts&play_token=Il773WpyzP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/EURONEWS FRENCH.png" group-title="[LIVE]- ┃FR┃ INFORMATIONS",┃FR┃ EURONEWS FRENCH
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941760&extension=ts&play_token=l7gDX14HVV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/C NEWS.png" group-title="[LIVE]- ┃FR┃ INFORMATIONS",┃FR┃ C NEWS FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941756&extension=ts&play_token=uqjZwGgOAK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/C NEWS.png" group-title="[LIVE]- ┃FR┃ INFORMATIONS",┃FR┃ C NEWS HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941757&extension=ts&play_token=MuMnORU6hy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/I24 NEWS.png" group-title="[LIVE]- ┃FR┃ INFORMATIONS",┃FR┃ I24 NEWS FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941782&extension=ts&play_token=vwpckuVhn6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/I24 NEWS.png" group-title="[LIVE]- ┃FR┃ INFORMATIONS",┃FR┃ I24 NEWS HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941783&extension=ts&play_token=rF7bkqtjs3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/I24 NEWS.png" group-title="[LIVE]- ┃FR┃ INFORMATIONS",┃FR┃ I24 NEWS
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941784&extension=ts&play_token=uUEvjGZSVK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/LCI.png" group-title="[LIVE]- ┃FR┃ INFORMATIONS",┃FR┃ LCI FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941776&extension=ts&play_token=niFAVXSp8W
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EUROSPORT 1.png" group-title="[LIVE]- ┃FR┃ SPORTS",┃FR┃ EUROSPORT 1 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941598&extension=ts&play_token=Amc6jYW6ZJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EUROSPORT 1.png" group-title="[LIVE]- ┃FR┃ SPORTS",┃FR┃ EUROSPORT 1 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941596&extension=ts&play_token=DMrJp4C8eL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EUROSPORT 1.png" group-title="[LIVE]- ┃FR┃ SPORTS",┃FR┃ EUROSPORT 1
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941600&extension=ts&play_token=2Z57qKGjAN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EUROSPORT 2.png" group-title="[LIVE]- ┃FR┃ SPORTS",┃FR┃ EUROSPORT 2 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941599&extension=ts&play_token=MteZqQUrJH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EUROSPORT 2.png" group-title="[LIVE]- ┃FR┃ SPORTS",┃FR┃ EUROSPORT 2 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941597&extension=ts&play_token=h36MJ7GCom
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EUROSPORT 2.png" group-title="[LIVE]- ┃FR┃ SPORTS",┃FR┃ EUROSPORT 2
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941601&extension=ts&play_token=fticrnjIeI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/INFO SPORT.png" group-title="[LIVE]- ┃FR┃ SPORTS",┃FR┃ INFO SPORT FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941590&extension=ts&play_token=9s2qSJiuxl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/INFO SPORT+.png" group-title="[LIVE]- ┃FR┃ SPORTS",┃FR┃ INFO SPORT+ HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941591&extension=ts&play_token=etL4hFWYNt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/INFO SPORT.png" group-title="[LIVE]- ┃FR┃ SPORTS",┃FR┃ INFO SPORT
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941592&extension=ts&play_token=CuKHVkQhpt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/Equipe 21.png" group-title="[LIVE]- ┃FR┃ SPORTS",┃FR┃ EQUIPE 21 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941593&extension=ts&play_token=6L7aIoanWW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/Equipe 21.png" group-title="[LIVE]- ┃FR┃ SPORTS",┃FR┃ EQUIPE 21 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941594&extension=ts&play_token=RXiApJTj4q
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/Equipe 21.png" group-title="[LIVE]- ┃FR┃ SPORTS",┃FR┃ EQUIPE 21
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941595&extension=ts&play_token=zZBXjn4b8f
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EQUIDIA.png" group-title="[LIVE]- ┃FR┃ SPORTS",┃FR┃ EQUIDIA FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941602&extension=ts&play_token=KTev8wxWGB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EQUIDIA.png" group-title="[LIVE]- ┃FR┃ SPORTS",┃FR┃ EQUIDIA HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941603&extension=ts&play_token=eCjpAIe0Sz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL+ FOOT.png" group-title="CANAL+ Ly SPORT",┃FR┃ CANAL+ FOOT FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941405&extension=ts&play_token=ucONWF1Ecr
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL+ FOOT.png" group-title="CANAL+ Ly SPORT",┃FR┃ CANAL+ FOOT HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941406&extension=ts&play_token=EJc6QouKQZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL+ FOOT.png" group-title="CANAL+ Ly SPORT",┃FR┃ CANAL+ FOOT
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941407&extension=ts&play_token=QFHmgiUqYk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL + SPORT.png" group-title="CANAL+ Ly SPORT",┃FR┃ CANAL + SPORT FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941408&extension=ts&play_token=I1kDTzZ59P
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL + SPORT.png" group-title="CANAL+ Ly SPORT",┃FR┃ CANAL + SPORT HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941409&extension=ts&play_token=3CZ3mIRK5E
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL + SPORT.png" group-title="CANAL+ Ly SPORT",┃FR┃ CANAL + SPORT
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941410&extension=ts&play_token=ytFbr4cpiG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL+ 360.png" group-title="CANAL+ Ly SPORT",┃FR┃ CANAL+ 360 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941411&extension=ts&play_token=aIoVTrPDfJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL+ 360.png" group-title="CANAL+ Ly SPORT",┃FR┃ CANAL+ 360 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941412&extension=ts&play_token=66oNmbJPHX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL+ 360.png" group-title="CANAL+ Ly SPORT",┃FR┃ CANAL+ 360
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941413&extension=ts&play_token=q4B72nKklZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL+ PREMIER LEAGUE.png" group-title="CANAL+ Ly SPORT",┃FR┃ CANAL+ PREMIER LEAGUE FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941414&extension=ts&play_token=d94RRPWBDw
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL+ PREMIER LEAGUE.png" group-title="CANAL+ Ly SPORT",┃FR┃ CANAL+ PREMIER LEAGUE HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941415&extension=ts&play_token=CKS6swcaKw
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL+ PREMIER LEAGUE.png" group-title="CANAL+ Ly SPORT",┃FR┃ CANAL+ PREMIER LEAGUE
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941416&extension=ts&play_token=hz8BR1NVxQ
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ Ly SPORT",┃FR┃ CANAl+ CHAMPIONS LEAGUE FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941625&extension=ts&play_token=CzBiTjIEEW
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ Ly SPORT",┃FR┃ CANAl+ CHAMPIONS LEAGUE HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941624&extension=ts&play_token=StI35mIFqx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR RMC SPORT/RMC SPORT.png" group-title="RMC SPORT",┃FR┃ RMC SPORT UHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941433&extension=ts&play_token=OOSFtLdkzu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR RMC SPORT/RMC SPORT 1.png" group-title="RMC SPORT",┃FR┃ RMC SPORT 1 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941434&extension=ts&play_token=CPzx4NGMVc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR RMC SPORT/RMC SPORT 1.png" group-title="RMC SPORT",┃FR┃ RMC SPORT 1 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941435&extension=ts&play_token=e1cAr62ZJL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR RMC SPORT/RMC SPORT 2.png" group-title="RMC SPORT",┃FR┃ RMC SPORT 2 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941436&extension=ts&play_token=zuEXM9xlId
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR RMC SPORT/RMC SPORT 2.png" group-title="RMC SPORT",┃FR┃ RMC SPORT 2 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941437&extension=ts&play_token=X7u9JplRzG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR RMC SPORT/RMC SPORT LIVE 3.png" group-title="RMC SPORT",┃FR┃ RMC SPORT LIVE 3 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941438&extension=ts&play_token=ATTIL63rWp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR RMC SPORT/RMC SPORT LIVE 3.png" group-title="RMC SPORT",┃FR┃ RMC SPORT LIVE 3 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941439&extension=ts&play_token=s0T0plPaxW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR RMC SPORT/RMC SPORT LIVE 4.png" group-title="RMC SPORT",┃FR┃ RMC SPORT LIVE 4 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941440&extension=ts&play_token=DnrGSaAr96
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR RMC SPORT/RMC SPORT LIVE 4.png" group-title="RMC SPORT",┃FR┃ RMC SPORT LIVE 4 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941441&extension=ts&play_token=3MT1ydQse2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 1.png" group-title="RMC SPORT",┃FR┃ BEIN SPORTS 1 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941417&extension=ts&play_token=8i21tChH7o
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 1.png" group-title="RMC SPORT",┃FR┃ BEIN SPORTS 1 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941418&extension=ts&play_token=DbfhmxTXHR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 1.png" group-title="RMC SPORT",┃FR┃ BEIN SPORTS 1
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941419&extension=ts&play_token=ZVugH2LDHD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 2.png" group-title="RMC SPORT",┃FR┃ BEIN SPORTS 2 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941420&extension=ts&play_token=2VIKAmFLLe
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 2.png" group-title="RMC SPORT",┃FR┃ BEIN SPORTS 2 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941421&extension=ts&play_token=ctspn0KL4E
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 2.png" group-title="RMC SPORT",┃FR┃ BEIN SPORTS 2
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941422&extension=ts&play_token=dTwQj3HrIi
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 3.png" group-title="RMC SPORT",┃FR┃ BEIN SPORTS 3 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941423&extension=ts&play_token=RLH9nZLqhf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 3.png" group-title="RMC SPORT",┃FR┃ BEIN SPORTS 3 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941424&extension=ts&play_token=EwGKc7MMOB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 3.png" group-title="RMC SPORT",┃FR┃ BEIN SPORTS 3
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941425&extension=ts&play_token=drlMa1XsOn
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS MAX 4.png" group-title="RMC SPORT",┃FR┃ BEIN SPORTS MAX 4 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941426&extension=ts&play_token=heHF6NGkKp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS MAX 5.png" group-title="RMC SPORT",┃FR┃ BEIN SPORTS MAX 5 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941427&extension=ts&play_token=rEiIIuq68Y
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS MAX 6.png" group-title="RMC SPORT",┃FR┃ BEIN SPORTS MAX 6 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941428&extension=ts&play_token=lIsIRHpweF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS MAX 7.png" group-title="RMC SPORT",┃FR┃ BEIN SPORTS MAX 7 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941429&extension=ts&play_token=BidNQ9RzmR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS MAX 8.png" group-title="RMC SPORT",┃FR┃ BEIN SPORTS MAX 8 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941430&extension=ts&play_token=9lZUFpwsVv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR CANAL+ LIVE/CANAL+ LIVE.png" group-title="RMC SPORT",┃FR┃ CANAL+ LIVE 1 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941442&extension=ts&play_token=VChfkjCzpH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR CANAL+ LIVE/CANAL+ LIVE.png" group-title="RMC SPORT",┃FR┃ CANAL+ LIVE 1 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941461&extension=ts&play_token=44YdPO0qzC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR CANAL+ LIVE/CANAL+ LIVE.png" group-title="RMC SPORT",┃FR┃ CANAL+ LIVE 2 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941443&extension=ts&play_token=ji4raLg0lw
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR CANAL+ LIVE/CANAL+ LIVE.png" group-title="RMC SPORT",┃FR┃ CANAL+ LIVE 2 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941462&extension=ts&play_token=80id57abpQ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR CANAL+ LIVE/CANAL+ LIVE.png" group-title="RMC SPORT",┃FR┃ CANAL+ LIVE 3 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941444&extension=ts&play_token=pBo4CjMNbv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR CANAL+ LIVE/CANAL+ LIVE.png" group-title="RMC SPORT",┃FR┃ CANAL+ LIVE 3 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941463&extension=ts&play_token=0fhiW0GCuJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR CANAL+ LIVE/CANAL+ LIVE.png" group-title="RMC SPORT",┃FR┃ CANAL+ LIVE 4 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941445&extension=ts&play_token=L8KDWzIZZ9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR CANAL+ LIVE/CANAL+ LIVE.png" group-title="RMC SPORT",┃FR┃ CANAL+ LIVE 4 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941464&extension=ts&play_token=bOLR7m4QhM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR CANAL+ LIVE/CANAL+ LIVE.png" group-title="RMC SPORT",┃FR┃ CANAL+ LIVE 5 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941446&extension=ts&play_token=MUNBPgqgbg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR CANAL+ LIVE/CANAL+ LIVE.png" group-title="RMC SPORT",┃FR┃ CANAL+ LIVE 5 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941465&extension=ts&play_token=79K32Rye5j
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR CANAL+ LIVE/CANAL+ LIVE.png" group-title="RMC SPORT",┃FR┃ CANAL+ LIVE 6 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941447&extension=ts&play_token=46oVI8luaQ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR CANAL+ LIVE/CANAL+ LIVE.png" group-title="RMC SPORT",┃FR┃ CANAL+ LIVE 6 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941466&extension=ts&play_token=0lsVOIsmN4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR CANAL+ LIVE/CANAL+ LIVE.png" group-title="RMC SPORT",┃FR┃ CANAL+ LIVE 7 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941448&extension=ts&play_token=SbqWbl3WCK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR CANAL+ LIVE/CANAL+ LIVE.png" group-title="RMC SPORT",┃FR┃ CANAL+ LIVE 7 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=941467&extension=ts&play_token=IihrWVqq1i
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/FOR ADULT/FOR ADULT.png" group-title="RMC duel ",┃ADULT┃ MEIDEN VAN HOLLAND HARD HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=743598&extension=ts&play_token=U01TdFP58h
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/FOR ADULT/FOR ADULT.png" group-title="RMC duel ",┃ADULT┃ BRAZZERS TV EUROPE HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=743597&extension=ts&play_token=JGTETohKKl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/FOR ADULT/FOR ADULT.png" group-title="RMC duel ",┃ADULT┃ PENTHOUSE GOLD HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=743599&extension=ts&play_token=aXo8IJbAJS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/FOR ADULT/FOR ADULT.png" group-title="RMC duel ",┃ADULT┃ PENTHOUSE REALITY TV HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=743600&extension=ts&play_token=mC3wY2f25E
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/FOR ADULT/FOR ADULT.png" group-title="RMC duel ",┃ADULT┃ PENTHOUSE PASSION HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=18370&extension=ts&play_token=SDNfn2ppxa
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/FOR ADULT/FOR ADULT.png" group-title="RMC duel ",┃ADULT┃ PASSIEXXX HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=743601&extension=ts&play_token=l0UTlFkATl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/FOR ADULT/FOR ADULT.png" group-title="RMC duel ",┃ADULT┃ PASSIEXXX EUROPE HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=743602&extension=ts&play_token=7JX1rf7B4n
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/FOR ADULT/FOR ADULT.png" group-title="RMC duel ",┃ADULT┃ PASSIE XXX HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=743604&extension=ts&play_token=EFyxqfi0WA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/FOR ADULT/FOR ADULT.png" group-title="RMC duel ",┃ADULT┃ PASSION XXX HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=743605&extension=ts&play_token=yu2QubzUqB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/FOR ADULT/FOR ADULT.png" group-title="RMC duel ",┃ADULT┃ DORCEL TV HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=743606&extension=ts&play_token=8ALXgfeR3T
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/FOR ADULT/FOR ADULT.png" group-title="RMC duel ",┃ADULT┃ DORCEL TV XXX HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=743609&extension=ts&play_token=XcxxuqWYfA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/FOR ADULT/FOR ADULT.png" group-title="RMC duel ",┃ADULT┃ SECRET CIRCLE TV HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=743613&extension=ts&play_token=xSPrTishNA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/FOR ADULT/FOR ADULT.png" group-title="RMC duel ",┃ADULT┃ EROX TV HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=743615&extension=ts&play_token=HHvFq8ZH5k
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/FOR ADULT/FOR ADULT.png" group-title="RMC duel ",┃ADULT┃ EROX XXX TV HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:1D:01:1B&stream=743616&extension=ts&play_token=vMjHy04BgL
