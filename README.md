@@ -6,3 +6,4 @@ https://mac.rafiqtech.com/
 https://man15h.github.io/tellyscope/
 https://nuviocollections.com/
 https://stryker.zalexdev.com/
+https://sukisu.org/guide/installation
