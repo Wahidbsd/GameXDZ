@@ -7,3 +7,5 @@ https://man15h.github.io/tellyscope/
 https://nuviocollections.com/
 https://stryker.zalexdev.com/
 https://sukisu.org/guide/installation
+http://bladii-sport.live
+https://youssefelkahri.github.io/kage-updates/
